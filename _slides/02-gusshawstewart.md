@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Scotland FC are going the Euros!
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
